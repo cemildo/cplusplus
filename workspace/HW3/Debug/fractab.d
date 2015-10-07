@@ -1,0 +1,1 @@
+fractab.o: ../fractab.cpp

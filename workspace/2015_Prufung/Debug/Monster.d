@@ -1,0 +1,1 @@
+Monster.d: ../Monster.cpp

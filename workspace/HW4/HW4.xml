@@ -1,0 +1,15 @@
+<testsuites>
+	<testsuite name="AllTests" tests="11">
+		<testcase classname="AllTests" name="testForeColorWhite"/>
+		<testcase classname="AllTests" name="testClear"/>
+		<testcase classname="AllTests" name="testBAckColorBlack"/>
+		<testcase classname="AllTests" name="testBold"/>
+		<testcase classname="AllTests" name="testAttrOff"/>
+		<testcase classname="AllTests" name="testPosXY"/>
+		<testcase classname="AllTests" name="testHome"/>
+		<testcase classname="AllTests" name="testUp"/>
+		<testcase classname="AllTests" name="testDown"/>
+		<testcase classname="AllTests" name="testLeft"/>
+		<testcase classname="AllTests" name="testRight"/>
+	</testsuite>
+</testsuites>

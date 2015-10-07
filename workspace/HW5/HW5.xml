@@ -1,0 +1,9 @@
+<testsuites>
+	<testsuite name="AllTests" tests="1">
+		<testcase classname="AllTests" name="testPunktuation">
+			<failure message="../WordTest.cpp:10 testPunktuation: &quot;cemill&quot; == word.FixWord(&quot;cemil++''**&quot;) expected:	cemill	but was:	cemil	">
+testPunktuation: &quot;cemill&quot; == word.FixWord(&quot;cemil++''**&quot;) expected:	cemill	but was:	cemil	
+			</failure>
+		</testcase>
+	</testsuite>
+</testsuites>

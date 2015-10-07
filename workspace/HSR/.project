@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>HSR</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Prog3</name>
+			<type>2</type>
+			<location>/home/cemil/Schreibtisch/hsr/Prog3</location>
+		</link>
+	</linkedResources>
+</projectDescription>

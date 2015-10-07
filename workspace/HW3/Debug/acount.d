@@ -1,0 +1,1 @@
+acount.o: ../acount.cpp

@@ -1,0 +1,9 @@
+<testsuites>
+	<testsuite name="Calc Tests" tests="5">
+		<testcase classname="Calc Tests" name="checkDividerIfZero"/>
+		<testcase classname="Calc Tests" name="checkIfCanMultiply"/>
+		<testcase classname="Calc Tests" name="checkIfCanAdd"/>
+		<testcase classname="Calc Tests" name="checkIfCanDivide"/>
+		<testcase classname="Calc Tests" name="checkIfCanSubstract"/>
+	</testsuite>
+</testsuites>

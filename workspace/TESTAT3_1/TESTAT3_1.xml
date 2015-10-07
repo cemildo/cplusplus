@@ -1,0 +1,10 @@
+<testsuites>
+	<testsuite name="line_iterator" tests="6">
+		<testcase classname="line_iterator" name="testLineIterator"/>
+		<testcase classname="line_iterator" name="testdefaultIteratorEqual"/>
+		<testcase classname="line_iterator" name="testLeerString"/>
+		<testcase classname="line_iterator" name="testMehrereZeilen"/>
+		<testcase classname="line_iterator" name="testGetPrefixValue"/>
+		<testcase classname="line_iterator" name="testGetPostfixValue"/>
+	</testsuite>
+</testsuites>

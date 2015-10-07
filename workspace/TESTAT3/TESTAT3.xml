@@ -1,0 +1,13 @@
+<testsuites>
+	<testsuite name="Bindings" tests="9">
+		<testcase classname="Bindings" name="runBindMultiplication"/>
+		<testcase classname="Bindings" name="runBindMultiplicationWithBuildIn"/>
+		<testcase classname="Bindings" name="runBindMinusWithBuildIn"/>
+		<testcase classname="Bindings" name="runBindPlusWithBuildIn"/>
+		<testcase classname="Bindings" name="runBindDivideWithBuildIn"/>
+		<testcase classname="Bindings" name="runBindEquation"/>
+		<testcase classname="Bindings" name="runFirstTestCase"/>
+		<testcase classname="Bindings" name="runSecondTestCase"/>
+		<testcase classname="Bindings" name="runThirdTestCase"/>
+	</testsuite>
+</testsuites>

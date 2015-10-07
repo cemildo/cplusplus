@@ -1,0 +1,1 @@
+lcount.o: ../lcount.cpp

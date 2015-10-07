@@ -1,0 +1,15 @@
+<testsuites>
+	<testsuite name="Words" tests="11">
+		<testcase classname="Words" name="sanitizeStringFromNonChar"/>
+		<testcase classname="Words" name="sanitizeStringFromNumbers"/>
+		<testcase classname="Words" name="sanitizeStringFromBothSide"/>
+		<testcase classname="Words" name="kwicOrderOneLine"/>
+		<testcase classname="Words" name="kwicOrderTwoLine"/>
+		<testcase classname="Words" name="sanitizeSentence"/>
+		<testcase classname="Words" name="compareIfTwoWordsEqual"/>
+		<testcase classname="Words" name="compareIfOneWordisBigger"/>
+		<testcase classname="Words" name="compareIfOneWordisSmaller"/>
+		<testcase classname="Words" name="compareIfOneWordisSmallerOREqual"/>
+		<testcase classname="Words" name="compareIfOneWordisBiggerOREqual"/>
+	</testsuite>
+</testsuites>

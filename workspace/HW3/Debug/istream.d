@@ -1,0 +1,1 @@
+istream.o: ../istream.cpp

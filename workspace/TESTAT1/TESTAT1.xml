@@ -1,0 +1,18 @@
+<testsuites>
+	<testsuite name="Calc&amp;Large Number Tests" tests="14">
+		<testcase classname="Calc&amp;Large Number Tests" name="checkIfCanDivideWithZero"/>
+		<testcase classname="Calc&amp;Large Number Tests" name="checkIfCanMultiply"/>
+		<testcase classname="Calc&amp;Large Number Tests" name="checkIfCanAdd"/>
+		<testcase classname="Calc&amp;Large Number Tests" name="checkIfCanDivide"/>
+		<testcase classname="Calc&amp;Large Number Tests" name="checkIfCanSubstract"/>
+		<testcase classname="Calc&amp;Large Number Tests" name="shouldAddTwoNegativeNumbers"/>
+		<testcase classname="Calc&amp;Large Number Tests" name="shouldModuloTwoNumbers"/>
+		<testcase classname="Calc&amp;Large Number Tests" name="shouldModuloTwoNegativeNumbers"/>
+		<testcase classname="Calc&amp;Large Number Tests" name="printLargeDivisionByZero"/>
+		<testcase classname="Calc&amp;Large Number Tests" name="printLargeSubstract"/>
+		<testcase classname="Calc&amp;Large Number Tests" name="printLargeAddition"/>
+		<testcase classname="Calc&amp;Large Number Tests" name="printLargeMultiplication"/>
+		<testcase classname="Calc&amp;Large Number Tests" name="printLargeDivision"/>
+		<testcase classname="Calc&amp;Large Number Tests" name="printLargeUnKnownOperant"/>
+	</testsuite>
+</testsuites>
